@@ -2,6 +2,12 @@
 
 This project is a multithreaded HTTP server written in C. The server supports basic HTTP methods, ```GET``` and ```PUT```, requests and manages concurrency using a thread pool and a reader-writer locking mechanism for shared resource access.
 
+The repository contains the following folders:
+
+* ```multithreaded_httpserver```: Contains the main implementation of the multithreaded HTTP server, including thread pool management, request handling, and concurrency mechanisms.
+* ```httpserver```: A simpler, single-threaded implementation of the HTTP server.
+* ```rwlock```: Provides the implementation of reader-writer locks used in the multithreaded server for managing synchronized access to shared resources.
+
 ## Main Components
 
 ### 1. Request Handling
