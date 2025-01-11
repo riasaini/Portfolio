@@ -7,8 +7,8 @@ A multi-threaded HTTP server implementation designed for learning and experiment
 ## 2. Real Estate Profitability Guide
 This project provides a tool for evaluating the profitability of real estate investments. It includes financial calculations and data analysis to help potential investors assess property purchases.
 
-## 3. Visualizations
-This project contains various data visualizations, showcasing insights derived from datasets. The visualizations can be used to analyze trends and better understand complex data.
+## 3. Neural Network Visualizations
+This project contains various nueral network visualizations that aid in understanding how a model makes predictions, offering insights into its decision-making process.
 
 
 
