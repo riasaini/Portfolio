@@ -43,7 +43,7 @@ PUT /foo.txt HTTP/1.1\r\nContent-Length: 12\r\n\r\nHello world!
 
 ```500 Internal Server Error```: Issues with server-side processing.
 
-## Requirenments
+## Prerequisites
 * Computer with ARM or x86 architecture.
 * ```gcc``` (GNU Compiler Collection) installed on your system.
 
